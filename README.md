@@ -1,4 +1,8 @@
-# The-Game-of-Hogs
+## The-Game-of-Hogs
+
+This was my first project in the course of CS61A at Berkeley. Use python3 to run hog_gui.py to play the game.
+
+Here are the game rules:
 
 In The game of Hogs, two players alternate turns trying to be the first to end a turn with at least 100 total points. On each turn, the current player chooses some number of dice to roll, up to 10. That player's score for the turn is the sum of the dice outcomes. However, a player who rolls too many dice risks:
 
